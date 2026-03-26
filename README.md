@@ -63,9 +63,3 @@ I'm always happy to connect — whether it's open source collaboration, a Django
 📝 [Medium](https://medium.com/@awaisq) — I write about what I build
 
 Or open an issue on any of my repos — I read everything.
-
----
-
-
-<!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d277,100:00b4d8&height=120&section=footer" />
