@@ -37,7 +37,7 @@ Now I'm pushing into AI. I'm contributing to projects like [LiteLLM](https://git
 
 **[Celery](https://github.com/celery/celery)** — Contributor. Distributed task queue powering async workloads across the Django ecosystem.
 
-**[PyJWT](https://github.com/jpadilla/pyjwt)** — Contributor. The go-to JWT library for Python — used everywhere authentication tokens are exchanged.
+**[django-rest-framework-jwt](https://github.com/Styria-Digital/django-rest-framework-jwt)** — Contributor. JWT authentication for Django REST Framework.
 
 **[wagtail-ai-chat](https://github.com/awais786/wagtail-ai-chat)** — My own project. AI-powered chat interface for Wagtail CMS — bringing LLM capabilities directly into the content management experience.
 
