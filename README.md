@@ -13,7 +13,7 @@
 <!-- About Me Section -->
 ## Hi, I'm Awais 👋
 
-I'm a Senior Backend Developer and Tech Lead at [Arbisoft](https://arbisoft.com), based in Pakistan. Over the years I've led and shipped production systems across different domains — from powering flight searches and bookings at [SastaTickket](https://sastaticket.pk), to building [Hirestream](https://hirestream.io), an applicant tracking system used by real hiring teams. I've led these projects end-to-end: architecture decisions, team mentoring, code review, and getting things across the finish line.
+I'm a Senior Backend Developer and Tech Lead at [Arbisoft](https://arbisoft.com), based in Pakistan. Over the years I've led and shipped production systems across different domains — from powering flight searches and bookings at [SastaTicket](https://sastaticket.pk), to building [Hirestream](https://hirestream.io), an applicant tracking system used by real hiring teams. I've led these projects end-to-end: architecture decisions, team mentoring, code review, and getting things across the finish line.
 
 A big part of my career has been the [Open edX](https://openedx.org) ecosystem — the world's leading open-source LMS. I'm a Core Contributor & Maintainer, and I've touched almost every corner of it: platform upgrades, auth, APIs, credentials, search, video, event routing, and more. Contributing across 100+ repos isn't a number I wear as a badge — it reflects years of genuinely caring about the health of a platform that millions of learners depend on.
 
@@ -53,9 +53,7 @@ Now I'm pushing into AI. I'm contributing to projects like [LiteLLM](https://git
 
 **[PyJWT](https://github.com/jpadilla/pyjwt)** — Contributor. The go-to JWT library for Python — used everywhere authentication tokens are exchanged.
 
-**[wagtail-image-from-url](https://github.comais786/wagtail-image-from-url)** — My own project. Load images from URLs directly into Wagtail CMS — a small tool that fills a real gap.
-
-**[django-smart-storages](https://github.com/awais786/django-smart-storages)** — My own project. Smart storage backends for Django applications.
+**[wagtail-ai-chat](https://github.com/awais786/wagtail-ai-chat)** — My own project. AI-powered chat interface for Wagtail CMS — bringing LLM capabilities directly into the content management experience.
 
 ---
 
