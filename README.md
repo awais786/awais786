@@ -66,15 +66,6 @@ Or open an issue on any of my repos — I read everything.
 
 ---
 
-<div align="center">
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=awais786&color=00d277&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d277,100:00b4d8&height=120&section=footer" />
