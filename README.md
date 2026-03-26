@@ -45,6 +45,11 @@ class BackendDeveloper:
         return f"{self.name} | {self.role} @ {self.company}"
 
 me = BackendDeveloper()
+print(me)
+```
+
+```
+>>> Awais Qureshi | Backend Developer @ Arbisoft
 ```
 
 ---
