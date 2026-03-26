@@ -21,8 +21,6 @@ Now I'm pushing into AI. I'm contributing to projects like [LiteLLM](https://git
 
 **Upgrade aggressively** — running old versions of Django, Python, or any dependency is a tax on everyone downstream. Pay it down early.
 
-**The seams are the interesting parts** — the most valuable work happens at the boundaries: between services, between framework versions, between what a library promises and what your app actually needs.
-
 **Stay a builder** — seniority shouldn't mean moving away from code. The instinct to open an editor and make something should never go away.
 
 ---
