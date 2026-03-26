@@ -1,15 +1,3 @@
-<div align="center">
-
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d277,100:00b4d8&height=220&section=header&text=Awais%20Qureshi&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20Python%20%7C%20Django%20%7C%20Open%20Source&descSize=18&descAlignY=55&animation=fadeIn" />
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D277&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=%3E+Open+edX+Core+Contributor+%26+Maintainer;%3E+Building+AI-powered+learning+with+LiteLLM;%3E+Driving+Django+upgrades+at+scale" alt="Typing SVG" />
-</a>
-
-</div>
-
 <!-- About Me Section -->
 ## Hi, I'm Awais 👋
 
@@ -67,21 +55,6 @@ Now I'm pushing into AI. I'm contributing to projects like [LiteLLM](https://git
 
 ---
 
-<!-- GitHub Stats -->
-## GitHub stats
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=awais786&show_icons=true&theme=dark&bg_color=0d1117&title_color=00d277&icon_color=00d277&text_color=c9d1d9&border_color=1a1e24&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=awais786&theme=dark&background=0d1117&ring=00d277&fire=00d277&currStreakLabel=00d277&sideLabels=c9d1d9&sideNums=00d277&dates=555555&border=1a1e24" />
-</div>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awais786&layout=compact&theme=dark&bg_color=0d1117&title_color=00d277&text_color=c9d1d9&border_color=1a1e24" />
-</div>
-
----
-
-<!-- Activity Graph -->
 
 <!-- Connect -->
 ## Say hi 👋
