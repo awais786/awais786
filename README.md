@@ -84,34 +84,16 @@ Now I'm pushing into AI. I'm contributing to projects like [LiteLLM](https://git
 ---
 
 <!-- Activity Graph -->
-## Contribution graph
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=awais786&bg_color=0d1117&color=00d277&line=00b4d8&point=ffffff&area_color=00d277&area=true&hide_border=false&custom_title=Contribution%20Timeline" />
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/awais786/awais786/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/awais786/awais786/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/awais786/awais786/output/github-snake-dark.svg" />
-  </picture>
-</div>
-
----
 
 <!-- Connect -->
 ## Say hi 👋
 
-<div align="center">
+I'm always happy to connect — whether it's open source collaboration, a Django question, or just talking shop about backend systems and AI tooling.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d277)](https://www.linkedin.com/in/awaisqureshi/)
-[![Medium](https://img.shields.io/badge/Medium-0d1117?style=for-the-badge&logo=medium&logoColor=00d277)](https://medium.com/@awaisq)
+💼 [LinkedIn](https://www.linkedin.com/in/awaisqureshi/) — let's connect
+📝 [Medium](https://medium.com/@awaisq) — I write about what I build
 
-</div>
+Or open an issue on any of my repos — I read everything.
 
 ---
 
