@@ -27,10 +27,13 @@ class BackendDeveloper:
         self.tools = ["Docker", "Git", "PostgreSQL", "Redis", "Celery"]
         self.architecture = ["MVC", "Microservices", "REST APIs"]
         self.contributions = {
-            "openedx-platform": "⭐ 8k+  | Core Contributor & Maintainer",
-            "django":           "⭐ 82k+ | Contributor",
-            "django-rest-fw":   "⭐ 28k+ | Contributor",
-            "litellm":          "⭐ 18k+ | Contributor",
+            "openedx-platform": "Core Contributor & Maintainer",
+            "django":           "Contributor",
+            "django-rest-fw":   "Contributor",
+            "litellm":          "Contributor",
+            "celery":           "Contributor",
+            "PyJWT":            "Contributor",
+            "openedx-org":      "Contributor across 100+ repos",
         }
         self.achievements = [
             "🏆 Arctic Code Vault Contributor",
